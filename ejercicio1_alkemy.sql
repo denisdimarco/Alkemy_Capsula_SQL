@@ -1,4 +1,4 @@
-kll-- Cree una tabla llamada CURSO con los atributos:
+-- Cree una tabla llamada CURSO con los atributos:
 -- Código de curso (clave primaria, entero no nulo)
 -- Nombre (varchar no nulo)
 -- Descripcion (varcha)
